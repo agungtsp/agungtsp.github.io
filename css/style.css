@@ -9061,11 +9061,11 @@ textarea.form-control {
     font-size: 24px; }
 
 .ftco-section {
-  padding: 7em 0;
+  padding: 3em 0;
   position: relative; }
   @media (max-width: 767.98px) {
     .ftco-section {
-      padding: 6em 0; } }
+      padding: 3em 0; } }
 
 .ftco-no-pt {
   padding-top: 0 !important; }
@@ -9681,8 +9681,3 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
-
-.btn-hire-me{
-  background: rgba(255, 255, 255, 0.9);
-  color: #000 !important;
-}

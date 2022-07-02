@@ -1,0 +1,43 @@
+.btn-hire-me{
+    background: rgba(0, 255, 255, 0.9);
+    color: #000 !important;
+}
+
+.text-general{
+    color: #999999;
+    font-weight: inherit;
+}
+.profile-badge--width-330{
+    width: 100% !important;
+}
+.services-1:hover .desc p, .services-1:hover h3{
+    color: #FFFFFF;
+}
+
+.btn-hire-me{
+    margin-top: 20px;
+    border: 0.5px solid #000 !important;
+}
+
+.label {
+    display: inline;
+    padding: 0.2em 0.6em 0.3em;
+    font-size: 90%;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.25em;
+}
+
+.label-info {
+    background-color: #5bc0de;
+    color: rgba(0, 0, 0, 0.9);
+}
+.page.four {
+    margin-bottom: 7em;
+}
+.page.five {
+    margin-bottom: 0;
+}
