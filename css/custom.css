@@ -1,13 +1,10 @@
-body {
-    font-family: Helvetica,Arial,sans-serif !important;
-}
 .btn-hire-me{
     background: rgba(0, 255, 255, 0.9);
     color: #000 !important;
 }
 
 .text-general{
-    color: #000000;
+    color: #999999;
     font-weight: inherit;
 }
 .profile-badge--width-330{
